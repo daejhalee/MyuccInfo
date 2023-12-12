@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyuccIT</string>
+    <string name="title_activity_directory">DirectoryActivity</string>
+    <string name="large_text">Large text</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="faculty">
+        <item>ROSE, Natalie</item>
+        <item>DAVIDSON, Sonia</item>
+        <item>MATHISON, Linda</item>
+        <item>MILLER, Ionie</item>
+        <item>ROACH, Marlene</item>
+    </string-array>
+</resources>
